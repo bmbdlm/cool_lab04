@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4000 4000" width="4000" height="4000">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffe2e2 } 
+		.txt1 { font-size: 3500px;fill: #393e46;font-weight: 800;font-family: "Nunito-ExtraBold", "Nunito" } 
+	</style>
+	<path id="Background" class="shp0" d="M2000 4000C894 4000 0 3106 0 2000C0 894 894 0 2000 0C3106 0 4000 894 4000 2000C4000 3106 3106 4000 2000 4000Z" />
+	<text id="5 " style="transform: matrix(1,0,0,1,917,3220)" >
+		<tspan x="0" y="0" class="txt1">5</tspan>
+	</text>
+</svg>
